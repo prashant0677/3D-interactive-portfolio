@@ -1,2 +1,17 @@
 # 3D-interactive-portfolio
-Welcome to the repository for my personal portfolio website! 🎉 This project is a culmination of creativity, technology, and my dedication to showcasing my skills, projects, and personality in a visually stunning and interactive manner
+# Interactive Portfolio Website
+
+An interactive personal portfolio website with a page-turning/flipbook design.
+
+ 🛠️ Built With
+
+HTML | CSS | JavaScript
+
+ ✨ Features
+
+- Interactive page flipping
+- Profile section
+- Skills section
+- Projects section
+- Contact section
+- Responsive design
