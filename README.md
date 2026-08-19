@@ -1,4 +1,4 @@
-# 3D-interactive-portfolio
+
 # Interactive Portfolio Website
 
 An interactive personal portfolio website with a page-turning/flipbook design.
